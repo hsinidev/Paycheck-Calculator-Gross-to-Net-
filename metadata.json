@@ -1,0 +1,5 @@
+{
+  "name": "Paycheck Calculator (Gross to Net)",
+  "description": "A modern, responsive Paycheck Calculator to estimate your net take-home pay based on gross salary, tax rate, and deductions. Features a clean interface with an animated galaxy background.",
+  "requestFramePermissions": []
+}
